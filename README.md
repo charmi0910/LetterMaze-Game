@@ -13,10 +13,15 @@ Built a fun and interactive lettermaze game using HTML, CSS, and JavaScript! �
 ✨ Perfect for sharpening spelling skills while having fun!
 
 🛠️ Skills Used:
+
 . 🌐 HTML5 (structures webpage)
+
 . 🎨 CSS3 (UI Styling, Background, Layout)
+
 . 📜 JavaScript (Game logic, DOM manipulation, Confetti animation)
+
 . 🧠 Logical Thinking & Problem Solving
+
 . 💡 UX Design Principles
 
 
