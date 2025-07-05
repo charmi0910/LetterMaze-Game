@@ -1,3 +1,5 @@
+LetterMaze Game
+
 🎮 Description:
 Built a fun and interactive lettermaze game using HTML, CSS, and JavaScript! 🧠Users can test their vocabulary across Easy, Medium, and Hard levels.
 
