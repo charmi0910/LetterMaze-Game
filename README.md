@@ -30,4 +30,3 @@ Built a fun and interactive scrambled word game using HTML, CSS, and JavaScript!
 * 🧠 Logical Thinking & Problem Solving
 
 * 💡 UX Design Principles
-
