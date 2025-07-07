@@ -36,10 +36,10 @@ https://charmi0910.github.io/LetterMaze-Game/
 
 **🧩 How to Play LetterMaze Game 🎮**
 
-Open the game from the live link:
+1. Open the game from the live link:
 🌐 https://charmi0910.github.io/LetterMaze-Game/
 
-Choose a difficulty level from the dropdown:
+2. Choose a difficulty level from the dropdown:
 
 🟢 Easy
 
@@ -47,11 +47,11 @@ Choose a difficulty level from the dropdown:
 
 🔴 Hard
 
-A scrambled word will appear on the screen 🔀
+3. A scrambled word will appear on the screen 🔀
 
 👉 Your task is to unscramble it and type the correct word in the box 📝
 
-Click:
+4. Click:
 
 * ✅ Check – to see if your guess is correct
 
@@ -59,7 +59,7 @@ Click:
 
 * 💡 Hint – to get a helpful letter from the word
 
-Earn ⭐ points for every correct answer
+5. Earn ⭐ points for every correct answer
 
 Try as many words as you like — challenge yourself at harder levels! 💪
 
