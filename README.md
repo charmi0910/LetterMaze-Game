@@ -1,9 +1,13 @@
-**🔠 LetterMaze Game** 
+**LetterMaze Game 🔠** 
+-----------------------
 
 **🎮 Description:**
-Built a fun and interactive scrambled word game using HTML, CSS, and JavaScript! 🧠 Users can test their vocabulary across Easy, Medium, and Hard levels.
+--------------------
+Built a fun and interactive LetterMaze game using HTML, CSS, and JavaScript! 🧠 Users can test their vocabulary across Easy, Medium, and Hard levels.
+___________________________________________________________________________________________________________________________________________________________________________________________
 
 **🎯 Features include:**
+-------------------------
 
 * Difficulty levels 🎚️
 
@@ -16,10 +20,13 @@ Built a fun and interactive scrambled word game using HTML, CSS, and JavaScript!
 * Non-repetitive words & smooth gameplay 🔁
 
 * Aesthetic UI with responsive design 🎨
+___________________________________________________________________________________________________________________________________________________________________________________________
 
 ✨ Perfect for sharpening spelling skills while having fun!
+___________________________________________________________________________________________________________________________________________________________________________________________
 
 **🛠️ Skills Used:**
+--------------------
 
 * 🌐 HTML5
 
@@ -30,11 +37,14 @@ Built a fun and interactive scrambled word game using HTML, CSS, and JavaScript!
 * 🧠 Logical Thinking & Problem Solving
 
 * 💡 UX Design Principles
+___________________________________________________________________________________________________________________________________________________________________________________________
 
 **Live Demo:**
 https://charmi0910.github.io/LetterMaze-Game/
+___________________________________________________________________________________________________________________________________________________________________________________________
 
 **🧩 How to Play LetterMaze Game 🎮**
+--------------------------------------
 
 1. Open the game from the live link:
 🌐 https://charmi0910.github.io/LetterMaze-Game/
